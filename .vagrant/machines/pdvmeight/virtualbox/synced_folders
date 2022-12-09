@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/Admin/Desktop/ITSU_Devops/hw-8","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
